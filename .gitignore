@@ -1,0 +1,5 @@
+# Config files
+.prettierrc
+
+# Firebase files
+firebase-debug.log
